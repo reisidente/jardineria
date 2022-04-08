@@ -1,0 +1,11 @@
+#imagen{
+    width: 50%;
+    margin: 40px;
+    border: 1px transparent;
+    display: block;
+}
+
+body{
+    background-color: greenyellow;
+    color: black;
+}
